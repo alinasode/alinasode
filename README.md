@@ -18,7 +18,7 @@ I'm a Master's student at University of Copenhagen studying computational physic
 
 ### What I'm currently focusing on 🌱
 
-Currently I'm working on my Master's Thesis within deep learning and computer vision, specially novelty detections of foreign objects in food products using X-ray imaging. 
+Currently I'm working on my Master's Thesis within deep learning and computer vision, specifically novelty detections of foreign objects in food products using X-ray imaging. 
 
 
 ### Find me elsewhere :earth_africa:
