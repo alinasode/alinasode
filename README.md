@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Master's student at University of Copenhagen studying computational physics.
+I have recently graduated my Master's degree at University of Copenhagen in computational physics.
 
 ### What I'm currently focusing on 🌱
 
