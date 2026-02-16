@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 I have recently graduated my Master's degree at University of Copenhagen in computational physics.
 
 ### What I'm currently focusing on 🌱
 
 Recently I just finished my Master's Thesis within deep learning and computer vision, specifically novelty detections of foreign objects in food products using X-ray imaging.
-
+-->
 
 ### Find me elsewhere :earth_africa:
 
